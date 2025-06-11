@@ -1,0 +1,21 @@
+12:13:11.514 [main] INFO  TestCases.Account_register - TC Account Registration Started
+12:13:11.602 [main] INFO  TestCases.Account_register - Logged into HomePage
+12:13:11.604 [main] INFO  TestCases.Account_register - Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+12:14:00.422 [main] INFO  TestCases.Account_register - TC Account Registration Started
+12:14:00.512 [main] INFO  TestCases.Account_register - Logged into HomePage
+12:14:00.514 [main] INFO  TestCases.Account_register - Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+12:17:44.589 [main] INFO  TestCases.Account_register - TC Account Registration Started
+12:17:44.665 [main] INFO  TestCases.Account_register - Logged into HomePage
+12:17:44.666 [main] INFO  TestCases.Account_register - Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+12:18:08.364 [main] INFO  TestCases.Account_register - TC Account Registration Started
+12:18:08.397 [main] INFO  TestCases.Account_register - Logged into HomePage
+12:18:08.397 [main] INFO  TestCases.Account_register - Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+12:21:19.622 [main] INFO  TestCases.Account_register - TC Account Registration Started
+12:21:19.653 [main] INFO  TestCases.Account_register - Logged into HomePage
+12:21:19.653 [main] INFO  TestCases.Account_register - Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+12:26:23.977 [main] INFO  TestCases.Account_register - TC Account Registration Started
+12:26:24.047 [main] INFO  TestCases.Account_register - Logged into HomePage
+12:26:24.048 [main] INFO  TestCases.Account_register - Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+14:10:40.473 [main] INFO  TestCases.Account_register - TC Account Registration Started
+14:10:40.496 [main] INFO  TestCases.Account_register - Logged into HomePage
+14:10:40.497 [main] INFO  TestCases.Account_register - Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null

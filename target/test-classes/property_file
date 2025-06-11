@@ -1,0 +1,5 @@
+app_url = https://tutorialsninja.com/demo/
+password = testjs@123
+email = adi1234@gmail.com
+#exec_env = local
+exec_env = remote
